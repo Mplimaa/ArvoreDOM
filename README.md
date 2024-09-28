@@ -17,7 +17,7 @@ Objetivo: Modificar o conteúdo do elemento com ID header e adicionar um novo pa
 Processo:
 Busca o elemento: Utiliza document.getElementById("header") para obter o elemento desejado.
 Guarda o conteúdo atual: Armazena o HTML existente na variável conteudo.
-Reescreve o conteúdo: Altera o HTML do elemento, adicionando tags <strong> ao conteúdo atual.
+Reescreve o conteúdo: Altera o HTML do elemento, adicionando tags "strong" ao conteúdo atual.
 Criação de novo elemento:
 Cria um novo elemento <p> com document.createElement('p').
 Define um atributo title para o parágrafo com paragrafo.setAttribute('title', 'Novo parágrafo').
