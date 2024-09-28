@@ -38,3 +38,9 @@ O novo parágrafo aparece abaixo do texto original, mostrando como a árvore DOM
 
 ## Conclusão
 Esse projeto é uma boa introdução às manipulações do DOM, demonstrando a adição e modificação de elementos na página web. Ele serve como base para aplicações mais complexas onde interações dinâmicas são necessárias.
+
+## Licença
+Mchele Lima - Apenas para uso educacional exceto comercial 
+
+
+###
