@@ -1,6 +1,6 @@
 # ArvoreDOM
 
-## Descrição do Projeto##
+## Descrição do Projeto
 Este projeto é uma demonstração simples de como manipular a árvore DOM utilizando JavaScript. O objetivo é modificar o conteúdo de um elemento específico na página e adicionar novos elementos dinâmicamente.
 
 ## Estrutura do Projeto 
