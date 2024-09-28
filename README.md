@@ -1,6 +1,6 @@
 # ArvoreDOM
 
-## Descrição do Projeto
+## Descrição do Projeto ##
 Este projeto é uma demonstração simples de como manipular a árvore DOM utilizando JavaScript. O objetivo é modificar o conteúdo de um elemento específico na página e adicionar novos elementos dinâmicamente.
 
 ## Estrutura do Projeto 
@@ -9,7 +9,7 @@ O projeto consiste em dois arquivos principais:
 DOM.js: Contém a função JavaScript que realiza as operações de manipulação do DOM.
 index.html: Arquivo HTML que estrutura a página e inclui o script JavaScript.
 
-### Detalhes Técnicos ##
+### Detalhes Técnicos 
 
 *** Arquivo 1: DOM.js - 
 Função divEdit:
