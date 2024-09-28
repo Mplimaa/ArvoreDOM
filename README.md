@@ -30,11 +30,11 @@ Elementos:
 Um <div> com ID header que contém texto inicial.
 Um botão de entrada (<input type="button">) que, ao ser clicado, executa a função divEdit().
 
-### Funcionamento: 
+## Funcionamento: 
 Quando o botão "Altera árvore DOM" é clicado, a função divEdit() é chamada.
 A função manipula o conteúdo do elemento header, adicionando formatação e inserindo um novo parágrafo.
 O novo parágrafo aparece abaixo do texto original, mostrando como a árvore DOM foi alterada dinamicamente.
 
 
-### Conclusão
+## Conclusão
 Esse projeto é uma boa introdução às manipulações do DOM, demonstrando a adição e modificação de elementos na página web. Ele serve como base para aplicações mais complexas onde interações dinâmicas são necessárias.
